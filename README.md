@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi, I'm Amit 
 
-<!--
-**Ka2311/Ka2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m interested in solving problem
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on web developement project.
+- ⚡ Fun fact: I love gardening and playing kabaddi
+- 💬 Ask me about C++,python and JavaScript
+- 📫 How to reach me https://github.com/Ka2311
 
-Here are some ideas to get you started:
+### Tech Stack
+💻 C++
+🌐 HTML5, CSS, JavaScript, Bootstrap Node.js React
+⚙️ Git and GitHub
+🔧 Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
