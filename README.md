@@ -8,8 +8,8 @@
 - 📫 How to reach me https://github.com/Ka2311
 
 ### Tech Stack
-💻 C++
-🌐 HTML5, CSS, JavaScript, Bootstrap Node.js React
-⚙️ Git and GitHub
-🔧 Visual Studio Code
+- 💻 C++ & python
+- 🌐 HTML5, CSS, JavaScript, Bootstrap Node.js React
+- ⚙️ Git & GitHub
+- 🔧 Visual Studio Code
 
